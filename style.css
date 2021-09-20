@@ -834,7 +834,7 @@ h4 {
     .bloc-tile-2.full-width-bloc .container,
     .bloc-tile-3.full-width-bloc .container,
     .bloc-tile-4.full-width-bloc .container {
-        padding-left: 0;
+        padding-left: 00;
         padding-right: 0;
     }
 }
